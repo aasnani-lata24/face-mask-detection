@@ -10,4 +10,4 @@
 9. Now install few extensions Python, Pythpn for vscode, Python extension pack, html snippets, html boilerplate.
 10. AS we build our app using PyQt5. Let's brief about PyQt5----- "PyQt5 is the latest version of a GUI widgets toolkit developed by Riverbank Computing. It is a Python interface for Qt, one of the most powerful, and popular cross-platform GUI library. PyQt5 is a blend of Python programming language and the Qt library".
 11. install PyQt5 using "pip install PyQt5".
-12. Now everything is set , virtual environment is set , run the file "app.py" amd you will see the "face mask recognition software app".
+12. Now everything is set, run the file "app.py" amd you will see the "face mask recognition software app".
