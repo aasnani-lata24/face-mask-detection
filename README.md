@@ -4,7 +4,7 @@
 3. We need few libraries and packages , the required are written into the requirements file
 4. To install all , use command "pip install -r requirements.txt".
 5. The Folder named ipynb.checkpoints , run all the files separately after setting the models folder which contains the required files to train the model.
-6. As the datasets are very large , i have given the link below to download the complete the datasets .
+6. As the datasets are very large , i have given the link below to download the complete datasets .
 7. https://drive.google.com/drive/folders/1FCNMDhYMvJq-TozIj8n-H9iyq2hwissK?usp=sharing
 8. All the required folder such as Data , Models should be keep properly and give path accordingly.
 9. Now after training and predicting the model, To build the desktop app we need to install visual studio and set the virtual environment to connect our face mask deep      learning model .
